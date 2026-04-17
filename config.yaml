@@ -1,0 +1,21 @@
+clustering:
+  n_clusters: 4  # Fixed number of segments
+  random_state: 42
+  max_iter: 300
+  
+features:
+  numerical:
+    - age
+    - total_orders
+    - avg_order_value
+    - total_spend
+    - last_purchase_days_ago
+  categorical:
+    - gender
+    - location
+    - product_category_preference
+    
+preprocessing:
+  scaler: "standard"  # standard, minmax, robust
+  handle_outliers: true
+  outlier_threshold: 3
