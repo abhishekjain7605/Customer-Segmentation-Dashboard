@@ -1,0 +1,1001 @@
+customer_id,age,gender,location,total_orders,avg_order_value,total_spend,last_purchase_days_ago,product_category_preference
+CUST0001,39,Female,Kolkata,23,137.29,3157.67,17,Beauty
+CUST0002,22,Female,Chennai,2,98.64,197.28,18,Fashion
+CUST0003,45,Male,Delhi,7,119.94,839.58,175,Fashion
+CUST0004,32,Male,Bangalore,9,28.38,255.42,67,Beauty
+CUST0005,42,Male,Chennai,14,95.51,1337.14,51,Beauty
+CUST0006,48,Male,Hyderabad,19,62.06,1179.14,43,Sports
+CUST0007,52,Male,Chennai,58,260.35,15100.3,17,Fashion
+CUST0008,32,Female,Bangalore,1,108.6,108.6,197,Fashion
+CUST0009,20,Female,Ahmedabad,4,15.96,63.84,32,Books
+CUST0010,54,Male,Mumbai,7,20.95,146.65,118,Fashion
+CUST0011,50,Female,Mumbai,35,455.79,15952.65,15,Electronics
+CUST0012,24,Female,Bangalore,1,81.26,81.26,17,Electronics
+CUST0013,49,Female,Mumbai,4,91.56,366.24,242,Home & Living
+CUST0014,38,Male,Ahmedabad,16,60.95,975.2,33,Fashion
+CUST0015,29,Male,Pune,12,58.94,707.28,15,Sports
+CUST0016,48,Male,Delhi,20,148.92,2978.4,16,Sports
+CUST0017,44,Male,Delhi,20,62.03,1240.6,52,Fashion
+CUST0018,34,Female,Ahmedabad,5,52.18,260.9,24,Beauty
+CUST0019,41,Male,Bangalore,10,109.73,1097.3,58,Fashion
+CUST0020,42,Female,Hyderabad,24,65.39,1569.36,41,Home & Living
+CUST0021,32,Male,Delhi,11,55.27,607.97,30,Fashion
+CUST0022,38,Male,Chennai,44,448.27,19723.88,10,Home & Living
+CUST0023,29,Male,Chennai,9,90.85,817.65,24,Fashion
+CUST0024,40,Female,Mumbai,13,146.21,1900.73,57,Beauty
+CUST0025,34,Female,Kolkata,10,54.73,547.3,81,Books
+CUST0026,59,Female,Pune,8,76.57,612.56,326,Electronics
+CUST0027,43,Female,Kolkata,15,74.53,1117.95,57,Beauty
+CUST0028,38,Female,Pune,6,42.84,257.04,57,Beauty
+CUST0029,30,Female,Kolkata,11,16.32,179.52,42,Beauty
+CUST0030,50,Female,Kolkata,58,206.27,11963.66,4,Fashion
+CUST0031,29,Male,Hyderabad,4,27.92,111.68,65,Sports
+CUST0032,32,Male,Mumbai,9,113.4,1020.6,33,Sports
+CUST0033,48,Female,Chennai,26,339.44,8825.44,2,Electronics
+CUST0034,22,Male,Ahmedabad,2,95.61,191.22,4,Beauty
+CUST0035,34,Female,Hyderabad,2,79.6,159.2,1,Beauty
+CUST0036,37,Female,Mumbai,4,84.76,339.04,96,Electronics
+CUST0037,30,Male,Bangalore,22,131.88,2901.36,20,Beauty
+CUST0038,43,Female,Mumbai,48,480.51,23064.48,3,Electronics
+CUST0039,28,Female,Pune,4,49.78,199.12,41,Beauty
+CUST0040,36,Female,Delhi,22,91.97,2023.34,29,Home & Living
+CUST0041,32,Male,Delhi,20,262.26,5245.2,6,Electronics
+CUST0042,34,Male,Hyderabad,10,31.58,315.8,34,Sports
+CUST0043,43,Male,Kolkata,36,181.91,6548.76,8,Fashion
+CUST0044,37,Male,Pune,3,85.78,257.34,12,Fashion
+CUST0045,27,Female,Mumbai,21,96.21,2020.41,39,Fashion
+CUST0046,29,Female,Mumbai,6,40.13,240.78,67,Sports
+CUST0047,46,Male,Mumbai,9,129.76,1167.84,20,Sports
+CUST0048,38,Female,Chennai,4,36.6,146.4,57,Sports
+CUST0049,18,Female,Mumbai,8,55.85,446.8,30,Sports
+CUST0050,41,Female,Delhi,21,64.25,1349.25,25,Home & Living
+CUST0051,18,Female,Mumbai,2,52.85,105.7,2,Fashion
+CUST0052,32,Female,Delhi,1,102.45,102.45,243,Fashion
+CUST0053,23,Male,Delhi,2,78.26,156.52,18,Electronics
+CUST0054,59,Male,Hyderabad,3,109.62,328.86,98,Fashion
+CUST0055,26,Female,Hyderabad,10,57.63,576.3,81,Fashion
+CUST0056,24,Male,Hyderabad,2,87.21,174.42,3,Electronics
+CUST0057,39,Female,Mumbai,30,403.69,12110.7,12,Electronics
+CUST0058,37,Male,Bangalore,21,83.69,1757.49,17,Sports
+CUST0059,48,Female,Ahmedabad,37,157.3,5820.1,19,Electronics
+CUST0060,33,Male,Bangalore,10,58.15,581.5,44,Fashion
+CUST0061,39,Male,Bangalore,14,96.26,1347.64,39,Sports
+CUST0062,48,Female,Bangalore,12,84.59,1015.08,53,Beauty
+CUST0063,51,Male,Hyderabad,4,22.94,91.76,317,Fashion
+CUST0064,28,Female,Bangalore,14,77.68,1087.52,21,Home & Living
+CUST0065,45,Male,Hyderabad,8,63.16,505.28,17,Home & Living
+CUST0066,27,Female,Bangalore,4,23.14,92.56,88,Beauty
+CUST0067,51,Female,Mumbai,33,330.19,10896.27,25,Fashion
+CUST0068,36,Male,Chennai,9,116.94,1052.46,155,Books
+CUST0069,30,Female,Delhi,31,195.81,6070.11,13,Electronics
+CUST0070,27,Male,Delhi,2,41.88,83.76,10,Fashion
+CUST0071,49,Male,Ahmedabad,1,64.94,64.94,353,Books
+CUST0072,49,Female,Kolkata,18,123.64,2225.52,46,Home & Living
+CUST0073,53,Female,Mumbai,47,452.48,21266.56,6,Electronics
+CUST0074,33,Female,Mumbai,9,73.12,658.08,109,Fashion
+CUST0075,54,Female,Hyderabad,5,113.39,566.95,250,Electronics
+CUST0076,31,Female,Mumbai,4,118.66,474.64,305,Books
+CUST0077,53,Male,Delhi,2,117.31,234.62,128,Books
+CUST0078,40,Female,Mumbai,42,383.4,16102.8,20,Electronics
+CUST0079,44,Female,Mumbai,17,123.29,2095.93,17,Sports
+CUST0080,37,Male,Chennai,51,232.1,11837.1,15,Electronics
+CUST0081,45,Male,Pune,2,44.41,88.82,115,Home & Living
+CUST0082,34,Female,Delhi,10,50.8,508.0,87,Books
+CUST0083,40,Female,Mumbai,23,115.12,2647.76,35,Home & Living
+CUST0084,35,Male,Kolkata,28,453.25,12691.0,25,Home & Living
+CUST0085,37,Male,Delhi,16,60.91,974.56,43,Home & Living
+CUST0086,30,Male,Bangalore,13,140.14,1821.82,22,Beauty
+CUST0087,30,Male,Delhi,8,49.69,397.52,178,Electronics
+CUST0088,29,Female,Bangalore,9,40.35,363.15,38,Sports
+CUST0089,51,Male,Mumbai,3,42.73,128.19,356,Books
+CUST0090,31,Female,Ahmedabad,4,35.86,143.44,22,Books
+CUST0091,31,Female,Mumbai,47,158.97,7471.59,26,Electronics
+CUST0092,56,Male,Bangalore,4,80.79,323.16,110,Books
+CUST0093,35,Male,Mumbai,5,109.8,549.0,292,Books
+CUST0094,38,Male,Delhi,8,23.76,190.08,87,Sports
+CUST0095,46,Male,Chennai,3,78.09,234.27,195,Home & Living
+CUST0096,19,Male,Delhi,6,52.04,312.24,26,Books
+CUST0097,30,Male,Pune,9,28.29,254.61,61,Beauty
+CUST0098,44,Female,Chennai,14,131.57,1841.98,53,Fashion
+CUST0099,42,Male,Kolkata,41,436.72,17905.52,22,Fashion
+CUST0100,44,Female,Kolkata,43,293.86,12635.98,29,Home & Living
+CUST0101,46,Female,Pune,46,423.18,19466.28,18,Fashion
+CUST0102,24,Female,Bangalore,11,19.3,212.3,55,Beauty
+CUST0103,29,Male,Hyderabad,24,123.69,2968.56,43,Home & Living
+CUST0104,39,Female,Delhi,7,43.89,307.23,51,Books
+CUST0105,30,Male,Hyderabad,1,64.77,64.77,2,Electronics
+CUST0106,42,Male,Mumbai,17,92.82,1577.94,48,Beauty
+CUST0107,48,Female,Pune,21,60.41,1268.61,35,Home & Living
+CUST0108,55,Female,Bangalore,5,109.42,547.1,162,Home & Living
+CUST0109,30,Male,Chennai,14,56.94,797.16,58,Sports
+CUST0110,41,Male,Chennai,51,339.0,17289.0,6,Fashion
+CUST0111,36,Male,Chennai,10,69.03,690.3,11,Sports
+CUST0112,41,Male,Mumbai,9,94.64,851.76,17,Home & Living
+CUST0113,22,Male,Mumbai,1,78.3,78.3,16,Beauty
+CUST0114,35,Female,Bangalore,1,50.09,50.09,225,Home & Living
+CUST0115,30,Male,Kolkata,5,21.86,109.3,24,Books
+CUST0116,20,Male,Mumbai,5,29.29,146.45,320,Home & Living
+CUST0117,35,Female,Delhi,6,35.93,215.58,231,Home & Living
+CUST0118,42,Male,Hyderabad,9,88.09,792.81,11,Sports
+CUST0119,30,Male,Pune,4,47.97,191.88,243,Home & Living
+CUST0120,23,Male,Delhi,8,37.36,298.88,79,Fashion
+CUST0121,57,Female,Kolkata,3,87.43,262.29,247,Fashion
+CUST0122,35,Male,Mumbai,4,101.87,407.48,252,Fashion
+CUST0123,27,Female,Mumbai,21,147.56,3098.76,19,Sports
+CUST0124,51,Male,Kolkata,55,362.23,19922.65,1,Fashion
+CUST0125,44,Male,Mumbai,10,89.87,898.7,34,Beauty
+CUST0126,45,Female,Kolkata,11,63.52,698.72,13,Fashion
+CUST0127,51,Female,Mumbai,4,63.95,255.8,249,Electronics
+CUST0128,21,Female,Delhi,7,35.2,246.4,94,Books
+CUST0129,54,Female,Bangalore,30,413.99,12419.7,24,Electronics
+CUST0130,26,Male,Mumbai,7,20.46,143.22,81,Sports
+CUST0131,40,Female,Delhi,8,100.94,807.52,48,Fashion
+CUST0132,44,Male,Kolkata,11,102.7,1129.7,48,Beauty
+CUST0133,32,Male,Bangalore,46,294.95,13567.7,14,Electronics
+CUST0134,29,Female,Delhi,9,63.38,570.42,30,Fashion
+CUST0135,27,Male,Delhi,2,43.28,86.56,5,Fashion
+CUST0136,42,Male,Delhi,12,145.96,1751.52,45,Home & Living
+CUST0137,28,Male,Mumbai,7,53.0,371.0,74,Beauty
+CUST0138,53,Female,Bangalore,2,67.6,135.2,322,Electronics
+CUST0139,30,Female,Chennai,17,139.21,2366.57,50,Fashion
+CUST0140,26,Male,Ahmedabad,2,60.63,121.26,1,Beauty
+CUST0141,25,Male,Bangalore,3,64.68,194.04,8,Electronics
+CUST0142,41,Male,Mumbai,24,56.67,1360.08,33,Sports
+CUST0143,29,Male,Kolkata,9,45.61,410.49,62,Books
+CUST0144,27,Female,Bangalore,24,145.65,3495.6,30,Home & Living
+CUST0145,28,Male,Bangalore,22,144.23,3173.06,37,Home & Living
+CUST0146,34,Female,Mumbai,51,174.05,8876.55,10,Electronics
+CUST0147,34,Male,Chennai,10,49.62,496.2,44,Fashion
+CUST0148,20,Male,Bangalore,6,42.68,256.08,60,Fashion
+CUST0149,47,Female,Hyderabad,40,193.83,7753.2,27,Home & Living
+CUST0150,45,Female,Delhi,23,131.18,3017.14,43,Fashion
+CUST0151,25,Female,Hyderabad,3,36.65,109.95,8,Electronics
+CUST0152,49,Female,Ahmedabad,19,69.75,1325.25,55,Fashion
+CUST0153,52,Male,Delhi,31,471.62,14620.22,18,Fashion
+CUST0154,25,Female,Mumbai,10,40.1,401.0,42,Books
+CUST0155,39,Female,Mumbai,3,48.85,146.55,13,Beauty
+CUST0156,45,Male,Bangalore,22,100.59,2212.98,33,Home & Living
+CUST0157,22,Male,Mumbai,3,37.88,113.64,82,Beauty
+CUST0158,49,Male,Bangalore,9,96.11,864.99,200,Home & Living
+CUST0159,40,Female,Mumbai,8,124.17,993.36,12,Sports
+CUST0160,51,Female,Chennai,2,40.4,80.8,99,Electronics
+CUST0161,31,Male,Hyderabad,9,85.54,769.86,22,Home & Living
+CUST0162,27,Female,Kolkata,8,52.47,419.76,33,Books
+CUST0163,37,Male,Ahmedabad,5,52.89,264.45,89,Fashion
+CUST0164,21,Male,Mumbai,6,47.49,284.94,43,Beauty
+CUST0165,35,Male,Delhi,59,212.43,12533.37,10,Fashion
+CUST0166,39,Male,Chennai,7,107.43,752.01,310,Fashion
+CUST0167,29,Female,Kolkata,11,55.28,608.08,33,Beauty
+CUST0168,43,Male,Kolkata,21,64.9,1362.9,33,Home & Living
+CUST0169,35,Male,Mumbai,50,438.8,21940.0,19,Electronics
+CUST0170,34,Male,Ahmedabad,3,18.99,56.97,66,Fashion
+CUST0171,30,Male,Mumbai,3,43.69,131.07,39,Fashion
+CUST0172,35,Male,Hyderabad,33,411.53,13580.49,7,Fashion
+CUST0173,37,Male,Delhi,4,22.44,89.76,89,Books
+CUST0174,45,Male,Kolkata,17,135.27,2299.59,35,Sports
+CUST0175,22,Female,Mumbai,3,34.58,103.74,83,Sports
+CUST0176,28,Female,Chennai,14,140.39,1965.46,44,Home & Living
+CUST0177,23,Male,Pune,8,25.14,201.12,79,Sports
+CUST0178,49,Female,Delhi,19,54.46,1034.74,31,Fashion
+CUST0179,31,Female,Kolkata,2,49.04,98.08,10,Fashion
+CUST0180,41,Male,Hyderabad,55,161.76,8896.8,20,Fashion
+CUST0181,45,Female,Mumbai,8,127.19,1017.52,15,Sports
+CUST0182,53,Male,Mumbai,39,194.8,7597.2,16,Home & Living
+CUST0183,29,Female,Chennai,2,81.16,162.32,18,Fashion
+CUST0184,45,Male,Chennai,8,53.83,430.64,250,Fashion
+CUST0185,34,Male,Mumbai,14,118.38,1657.32,42,Home & Living
+CUST0186,19,Female,Mumbai,11,50.63,556.93,68,Books
+CUST0187,25,Female,Chennai,1,62.86,62.86,94,Fashion
+CUST0188,19,Female,Hyderabad,4,53.79,215.16,70,Books
+CUST0189,32,Female,Kolkata,8,51.29,410.32,29,Fashion
+CUST0190,41,Female,Kolkata,14,137.21,1920.94,35,Home & Living
+CUST0191,51,Male,Delhi,59,457.24,26977.16,22,Electronics
+CUST0192,59,Female,Delhi,1,22.72,22.72,337,Fashion
+CUST0193,29,Male,Chennai,2,64.85,129.7,6,Electronics
+CUST0194,35,Male,Hyderabad,5,34.85,174.25,30,Beauty
+CUST0195,48,Female,Chennai,16,107.76,1724.16,30,Home & Living
+CUST0196,39,Female,Hyderabad,21,103.3,2169.3,51,Home & Living
+CUST0197,21,Male,Ahmedabad,3,56.31,168.93,203,Books
+CUST0198,52,Female,Chennai,1,23.34,23.34,97,Electronics
+CUST0199,56,Female,Mumbai,6,116.78,700.68,364,Home & Living
+CUST0200,30,Female,Ahmedabad,7,116.71,816.97,152,Electronics
+CUST0201,38,Female,Mumbai,4,22.47,89.88,78,Beauty
+CUST0202,54,Male,Mumbai,52,160.28,8334.56,20,Home & Living
+CUST0203,29,Male,Kolkata,16,131.91,2110.56,59,Fashion
+CUST0204,30,Female,Kolkata,9,55.78,502.02,315,Fashion
+CUST0205,33,Male,Mumbai,10,18.92,189.2,52,Beauty
+CUST0206,38,Male,Hyderabad,37,412.09,15247.33,25,Electronics
+CUST0207,46,Male,Mumbai,30,445.31,13359.3,27,Fashion
+CUST0208,33,Female,Mumbai,4,29.17,116.68,47,Books
+CUST0209,49,Female,Delhi,20,442.96,8859.2,23,Electronics
+CUST0210,49,Male,Delhi,13,86.04,1118.52,30,Fashion
+CUST0211,31,Female,Mumbai,6,54.2,325.2,58,Fashion
+CUST0212,32,Female,Bangalore,5,55.82,279.1,42,Beauty
+CUST0213,31,Female,Ahmedabad,6,32.17,193.02,81,Sports
+CUST0214,38,Male,Ahmedabad,24,54.2,1300.8,33,Fashion
+CUST0215,41,Female,Kolkata,9,49.22,442.98,364,Electronics
+CUST0216,37,Male,Mumbai,21,122.67,2576.07,28,Sports
+CUST0217,30,Male,Hyderabad,11,59.65,656.15,39,Fashion
+CUST0218,44,Female,Mumbai,5,49.72,248.6,311,Electronics
+CUST0219,21,Female,Hyderabad,10,54.48,544.8,60,Fashion
+CUST0220,35,Male,Delhi,1,48.53,48.53,357,Books
+CUST0221,31,Female,Delhi,7,38.47,269.29,88,Sports
+CUST0222,29,Male,Pune,7,19.22,134.54,80,Beauty
+CUST0223,31,Female,Mumbai,51,350.12,17856.12,13,Fashion
+CUST0224,46,Female,Mumbai,21,127.39,2675.19,50,Home & Living
+CUST0225,46,Female,Chennai,13,109.17,1419.21,38,Beauty
+CUST0226,28,Female,Delhi,19,98.77,1876.63,31,Fashion
+CUST0227,44,Male,Pune,1,65.44,65.44,6,Beauty
+CUST0228,42,Male,Delhi,19,110.41,2097.79,36,Fashion
+CUST0229,20,Male,Bangalore,1,82.25,82.25,231,Books
+CUST0230,37,Female,Delhi,3,38.25,114.75,68,Beauty
+CUST0231,39,Female,Delhi,1,53.89,53.89,334,Electronics
+CUST0232,27,Male,Delhi,8,56.93,455.44,28,Fashion
+CUST0233,34,Female,Mumbai,7,30.54,213.78,58,Books
+CUST0234,28,Female,Bangalore,5,35.28,176.4,65,Beauty
+CUST0235,43,Female,Delhi,15,140.76,2111.4,54,Beauty
+CUST0236,45,Male,Chennai,5,20.16,100.8,263,Books
+CUST0237,39,Male,Chennai,24,110.38,2649.12,27,Fashion
+CUST0238,30,Male,Hyderabad,55,279.17,15354.35,19,Fashion
+CUST0239,34,Male,Chennai,5,30.96,154.8,58,Sports
+CUST0240,34,Female,Pune,18,109.87,1977.66,23,Beauty
+CUST0241,42,Male,Mumbai,3,80.68,242.04,2,Fashion
+CUST0242,33,Female,Bangalore,2,30.82,61.64,12,Electronics
+CUST0243,40,Male,Delhi,3,33.06,99.18,17,Electronics
+CUST0244,47,Female,Chennai,13,134.56,1749.28,52,Home & Living
+CUST0245,52,Male,Bangalore,57,426.14,24289.98,28,Electronics
+CUST0246,20,Female,Hyderabad,3,83.15,249.45,8,Electronics
+CUST0247,49,Female,Mumbai,11,89.3,982.3,33,Home & Living
+CUST0248,22,Male,Mumbai,1,92.31,92.31,1,Electronics
+CUST0249,27,Female,Mumbai,2,74.58,149.16,11,Electronics
+CUST0250,30,Male,Hyderabad,1,87.71,87.71,265,Home & Living
+CUST0251,30,Male,Mumbai,11,66.74,734.14,59,Home & Living
+CUST0252,27,Male,Pune,20,88.42,1768.4,36,Fashion
+CUST0253,46,Female,Bangalore,3,22.34,67.02,214,Books
+CUST0254,34,Male,Bangalore,12,145.59,1747.08,46,Home & Living
+CUST0255,42,Female,Mumbai,16,148.4,2374.4,22,Beauty
+CUST0256,34,Male,Hyderabad,8,39.36,314.88,56,Sports
+CUST0257,30,Female,Delhi,1,88.36,88.36,19,Electronics
+CUST0258,30,Male,Hyderabad,3,37.84,113.52,40,Fashion
+CUST0259,36,Male,Bangalore,10,59.99,599.9,32,Books
+CUST0260,48,Male,Hyderabad,36,407.1,14655.6,18,Fashion
+CUST0261,36,Male,Chennai,9,32.78,295.02,47,Fashion
+CUST0262,39,Male,Delhi,3,97.48,292.44,2,Electronics
+CUST0263,44,Female,Kolkata,40,411.05,16442.0,7,Electronics
+CUST0264,37,Male,Mumbai,8,21.7,173.6,38,Books
+CUST0265,51,Female,Delhi,7,57.53,402.71,191,Books
+CUST0266,43,Male,Ahmedabad,9,56.23,506.07,268,Electronics
+CUST0267,35,Female,Bangalore,5,42.1,210.5,23,Fashion
+CUST0268,28,Female,Delhi,4,20.32,81.28,314,Home & Living
+CUST0269,30,Male,Chennai,12,101.04,1212.48,55,Fashion
+CUST0270,42,Female,Delhi,18,137.2,2469.6,19,Fashion
+CUST0271,35,Female,Hyderabad,2,53.34,106.68,124,Home & Living
+CUST0272,49,Male,Kolkata,3,119.78,359.34,353,Fashion
+CUST0273,26,Female,Chennai,7,24.42,170.94,114,Electronics
+CUST0274,22,Male,Pune,1,87.53,87.53,9,Electronics
+CUST0275,20,Female,Bangalore,10,32.96,329.6,53,Beauty
+CUST0276,23,Male,Ahmedabad,5,39.71,198.55,33,Fashion
+CUST0277,53,Male,Mumbai,3,72.26,216.78,105,Fashion
+CUST0278,19,Female,Chennai,8,17.26,138.08,85,Books
+CUST0279,50,Female,Mumbai,2,48.1,96.2,304,Fashion
+CUST0280,46,Female,Ahmedabad,7,67.64,473.48,322,Fashion
+CUST0281,40,Male,Pune,5,61.61,308.05,303,Books
+CUST0282,47,Female,Chennai,17,108.59,1846.03,17,Home & Living
+CUST0283,42,Female,Hyderabad,21,132.25,2777.25,33,Fashion
+CUST0284,33,Male,Delhi,42,402.23,16893.66,12,Electronics
+CUST0285,35,Female,Mumbai,4,47.48,189.92,68,Sports
+CUST0286,47,Female,Bangalore,41,397.44,16295.04,23,Fashion
+CUST0287,23,Male,Bangalore,11,18.72,205.92,47,Beauty
+CUST0288,36,Male,Bangalore,4,29.1,116.4,34,Fashion
+CUST0289,30,Female,Bangalore,19,117.51,2232.69,26,Beauty
+CUST0290,18,Female,Delhi,11,46.67,513.37,29,Beauty
+CUST0291,40,Male,Chennai,56,488.12,27334.72,12,Electronics
+CUST0292,54,Female,Ahmedabad,28,186.88,5232.64,19,Fashion
+CUST0293,36,Male,Bangalore,6,115.68,694.08,117,Home & Living
+CUST0294,39,Female,Kolkata,21,127.08,2668.68,50,Fashion
+CUST0295,47,Male,Chennai,32,295.53,9456.96,2,Electronics
+CUST0296,28,Female,Bangalore,10,44.15,441.5,64,Beauty
+CUST0297,27,Male,Chennai,4,93.86,375.44,117,Fashion
+CUST0298,45,Female,Delhi,15,96.82,1452.3,10,Sports
+CUST0299,20,Male,Delhi,11,52.05,572.55,73,Books
+CUST0300,50,Female,Chennai,32,282.68,9045.76,24,Home & Living
+CUST0301,43,Female,Pune,54,322.5,17415.0,15,Electronics
+CUST0302,37,Female,Kolkata,11,58.36,641.96,79,Sports
+CUST0303,33,Male,Hyderabad,3,38.46,115.38,77,Fashion
+CUST0304,27,Male,Delhi,11,20.41,224.51,25,Sports
+CUST0305,44,Male,Bangalore,7,71.8,502.6,333,Electronics
+CUST0306,33,Female,Pune,3,76.41,229.23,13,Electronics
+CUST0307,36,Male,Delhi,10,50.24,502.4,64,Sports
+CUST0308,27,Male,Chennai,16,143.74,2299.84,43,Home & Living
+CUST0309,42,Female,Hyderabad,4,115.78,463.12,208,Electronics
+CUST0310,44,Female,Delhi,18,146.28,2633.04,37,Beauty
+CUST0311,36,Male,Hyderabad,17,139.61,2373.37,34,Beauty
+CUST0312,40,Male,Chennai,27,372.58,10059.66,15,Electronics
+CUST0313,30,Male,Mumbai,57,251.68,14345.76,28,Fashion
+CUST0314,31,Female,Bangalore,2,40.31,80.62,5,Fashion
+CUST0315,52,Female,Bangalore,6,72.97,437.82,104,Home & Living
+CUST0316,38,Female,Bangalore,7,42.94,300.58,81,Fashion
+CUST0317,34,Female,Bangalore,20,95.86,1917.2,12,Fashion
+CUST0318,36,Male,Kolkata,18,117.43,2113.74,26,Sports
+CUST0319,35,Male,Bangalore,19,146.06,2775.14,25,Beauty
+CUST0320,48,Female,Mumbai,19,75.95,1443.05,34,Sports
+CUST0321,23,Female,Chennai,4,59.15,236.6,23,Fashion
+CUST0322,53,Male,Mumbai,5,115.29,576.45,336,Home & Living
+CUST0323,25,Female,Kolkata,6,26.13,156.78,84,Sports
+CUST0324,44,Female,Bangalore,19,51.21,972.99,19,Beauty
+CUST0325,27,Male,Hyderabad,3,33.22,99.66,10,Beauty
+CUST0326,46,Female,Mumbai,5,44.58,222.9,230,Electronics
+CUST0327,26,Female,Mumbai,10,59.55,595.5,53,Fashion
+CUST0328,24,Male,Bangalore,5,32.66,163.3,54,Beauty
+CUST0329,38,Male,Bangalore,20,75.1,1502.0,29,Home & Living
+CUST0330,25,Female,Mumbai,8,69.16,553.28,54,Sports
+CUST0331,35,Male,Pune,16,72.87,1165.92,10,Fashion
+CUST0332,48,Female,Delhi,5,91.92,459.6,238,Books
+CUST0333,48,Male,Bangalore,26,462.93,12036.18,7,Home & Living
+CUST0334,43,Female,Delhi,42,316.72,13302.24,15,Fashion
+CUST0335,37,Male,Mumbai,38,357.83,13597.54,14,Electronics
+CUST0336,33,Female,Kolkata,34,457.82,15565.88,1,Electronics
+CUST0337,59,Male,Chennai,4,89.36,357.44,113,Home & Living
+CUST0338,22,Female,Delhi,9,66.33,596.97,270,Home & Living
+CUST0339,30,Male,Mumbai,7,49.45,346.15,76,Books
+CUST0340,35,Male,Delhi,29,220.2,6385.8,7,Electronics
+CUST0341,20,Female,Delhi,5,17.34,86.7,87,Fashion
+CUST0342,21,Male,Delhi,11,53.18,584.98,77,Sports
+CUST0343,49,Female,Kolkata,21,62.54,1313.34,57,Sports
+CUST0344,31,Female,Mumbai,15,116.1,1741.5,40,Beauty
+CUST0345,26,Male,Delhi,16,76.88,1230.08,41,Fashion
+CUST0346,21,Female,Kolkata,6,43.45,260.7,40,Books
+CUST0347,36,Female,Chennai,3,56.98,170.94,85,Books
+CUST0348,35,Male,Delhi,42,193.79,8139.18,29,Home & Living
+CUST0349,33,Male,Mumbai,16,84.53,1352.48,15,Beauty
+CUST0350,34,Male,Hyderabad,3,47.72,143.16,66,Sports
+CUST0351,34,Male,Mumbai,6,50.38,302.28,87,Sports
+CUST0352,54,Female,Delhi,1,117.03,117.03,278,Books
+CUST0353,36,Female,Bangalore,11,39.04,429.44,59,Beauty
+CUST0354,40,Female,Delhi,15,67.93,1018.95,44,Sports
+CUST0355,40,Female,Delhi,44,205.05,9022.2,4,Fashion
+CUST0356,39,Male,Ahmedabad,11,50.85,559.35,26,Sports
+CUST0357,47,Female,Mumbai,38,369.8,14052.4,20,Fashion
+CUST0358,34,Female,Ahmedabad,7,28.8,201.6,46,Sports
+CUST0359,22,Male,Mumbai,2,72.39,144.78,1,Beauty
+CUST0360,26,Male,Bangalore,8,29.96,239.68,85,Beauty
+CUST0361,25,Male,Kolkata,14,113.23,1585.22,23,Beauty
+CUST0362,37,Male,Bangalore,10,27.43,274.3,76,Beauty
+CUST0363,27,Male,Hyderabad,4,58.68,234.72,88,Fashion
+CUST0364,35,Female,Delhi,6,34.02,204.12,68,Sports
+CUST0365,27,Female,Chennai,1,81.81,81.81,2,Beauty
+CUST0366,35,Male,Delhi,14,67.21,940.94,56,Sports
+CUST0367,39,Female,Delhi,3,73.66,220.98,15,Beauty
+CUST0368,19,Female,Chennai,3,56.13,168.39,10,Fashion
+CUST0369,40,Female,Ahmedabad,16,102.58,1641.28,11,Sports
+CUST0370,54,Female,Delhi,34,224.58,7635.72,19,Home & Living
+CUST0371,51,Female,Mumbai,53,280.74,14879.22,13,Electronics
+CUST0372,33,Male,Chennai,28,307.59,8612.52,1,Electronics
+CUST0373,43,Female,Bangalore,51,385.36,19653.36,16,Fashion
+CUST0374,39,Female,Delhi,5,55.05,275.25,44,Sports
+CUST0375,38,Male,Chennai,45,498.69,22441.05,28,Fashion
+CUST0376,34,Female,Mumbai,20,59.14,1182.8,58,Sports
+CUST0377,52,Male,Bangalore,5,27.71,138.55,292,Electronics
+CUST0378,30,Male,Pune,35,178.4,6244.0,16,Electronics
+CUST0379,38,Female,Delhi,8,40.03,320.24,180,Fashion
+CUST0380,38,Female,Delhi,24,142.08,3409.92,15,Beauty
+CUST0381,30,Female,Bangalore,56,383.26,21462.56,24,Fashion
+CUST0382,28,Male,Mumbai,8,34.24,273.92,55,Books
+CUST0383,32,Female,Hyderabad,4,52.11,208.44,41,Fashion
+CUST0384,32,Female,Bangalore,6,70.26,421.56,150,Books
+CUST0385,23,Female,Delhi,1,96.44,96.44,331,Electronics
+CUST0386,57,Male,Pune,5,98.65,493.25,110,Fashion
+CUST0387,37,Male,Delhi,10,130.58,1305.8,10,Home & Living
+CUST0388,48,Female,Kolkata,20,80.78,1615.6,41,Sports
+CUST0389,58,Female,Hyderabad,1,51.86,51.86,226,Fashion
+CUST0390,54,Male,Pune,6,72.16,432.96,350,Fashion
+CUST0391,29,Male,Bangalore,3,59.02,177.06,9,Fashion
+CUST0392,47,Male,Mumbai,21,88.48,1858.08,57,Fashion
+CUST0393,32,Male,Mumbai,9,103.19,928.71,53,Home & Living
+CUST0394,52,Female,Chennai,1,61.42,61.42,211,Fashion
+CUST0395,43,Female,Mumbai,9,101.92,917.28,37,Home & Living
+CUST0396,32,Female,Ahmedabad,3,46.39,139.17,15,Beauty
+CUST0397,27,Male,Chennai,9,61.58,554.22,108,Books
+CUST0398,39,Female,Pune,8,70.37,562.96,43,Home & Living
+CUST0399,53,Male,Chennai,1,69.57,69.57,217,Home & Living
+CUST0400,26,Male,Bangalore,5,96.48,482.4,96,Fashion
+CUST0401,50,Male,Hyderabad,36,450.06,16202.16,27,Electronics
+CUST0402,38,Male,Bangalore,2,47.73,95.46,9,Fashion
+CUST0403,39,Female,Hyderabad,11,36.83,405.13,70,Sports
+CUST0404,48,Male,Mumbai,3,105.5,316.5,360,Books
+CUST0405,38,Female,Mumbai,15,51.55,773.25,57,Fashion
+CUST0406,25,Female,Chennai,9,94.31,848.79,309,Home & Living
+CUST0407,37,Female,Ahmedabad,9,101.34,912.06,24,Fashion
+CUST0408,39,Male,Hyderabad,22,227.04,4994.88,22,Fashion
+CUST0409,40,Female,Delhi,3,55.86,167.58,11,Beauty
+CUST0410,40,Female,Mumbai,28,151.86,4252.08,28,Electronics
+CUST0411,40,Male,Delhi,11,126.65,1393.15,46,Home & Living
+CUST0412,43,Female,Bangalore,1,31.02,31.02,19,Fashion
+CUST0413,26,Male,Hyderabad,2,82.5,165.0,17,Electronics
+CUST0414,38,Female,Bangalore,6,53.37,320.22,81,Beauty
+CUST0415,30,Male,Hyderabad,8,32.38,259.04,78,Beauty
+CUST0416,26,Female,Mumbai,19,122.43,2326.17,20,Fashion
+CUST0417,26,Female,Kolkata,19,94.39,1793.41,32,Beauty
+CUST0418,30,Male,Delhi,22,113.68,2500.96,12,Beauty
+CUST0419,30,Female,Kolkata,7,46.26,323.82,32,Books
+CUST0420,29,Male,Bangalore,5,101.49,507.45,293,Electronics
+CUST0421,20,Male,Kolkata,6,23.37,140.22,185,Books
+CUST0422,25,Male,Pune,8,40.11,320.88,321,Books
+CUST0423,37,Male,Hyderabad,57,183.01,10431.57,8,Electronics
+CUST0424,23,Female,Kolkata,6,55.64,333.84,80,Books
+CUST0425,39,Male,Delhi,46,234.52,10787.92,15,Electronics
+CUST0426,20,Female,Chennai,7,50.27,351.89,49,Sports
+CUST0427,27,Female,Kolkata,13,51.71,672.23,33,Beauty
+CUST0428,51,Male,Bangalore,3,113.84,341.52,286,Electronics
+CUST0429,43,Male,Chennai,11,149.07,1639.77,28,Home & Living
+CUST0430,40,Male,Pune,39,349.32,13623.48,23,Home & Living
+CUST0431,52,Female,Ahmedabad,24,371.58,8917.92,5,Home & Living
+CUST0432,23,Female,Bangalore,1,66.12,66.12,255,Electronics
+CUST0433,28,Male,Ahmedabad,4,31.31,125.24,73,Sports
+CUST0434,50,Female,Chennai,24,169.04,4056.96,27,Fashion
+CUST0435,39,Female,Mumbai,38,411.73,15645.74,7,Fashion
+CUST0436,31,Female,Ahmedabad,6,77.97,467.82,298,Electronics
+CUST0437,47,Female,Bangalore,52,363.39,18896.28,11,Electronics
+CUST0438,39,Female,Bangalore,6,73.59,441.54,273,Fashion
+CUST0439,32,Female,Hyderabad,5,103.38,516.9,115,Books
+CUST0440,37,Male,Mumbai,41,395.92,16232.72,29,Electronics
+CUST0441,49,Female,Pune,35,391.74,13710.9,11,Electronics
+CUST0442,32,Female,Delhi,3,81.62,244.86,9,Electronics
+CUST0443,29,Female,Kolkata,24,112.26,2694.24,17,Sports
+CUST0444,38,Female,Pune,14,93.54,1309.56,21,Sports
+CUST0445,49,Male,Bangalore,3,75.19,225.57,187,Fashion
+CUST0446,43,Female,Mumbai,3,62.84,188.52,6,Beauty
+CUST0447,32,Male,Kolkata,3,98.97,296.91,8,Electronics
+CUST0448,27,Male,Delhi,8,32.97,263.76,128,Home & Living
+CUST0449,37,Female,Kolkata,11,71.05,781.55,31,Sports
+CUST0450,35,Male,Kolkata,43,204.22,8781.46,23,Electronics
+CUST0451,30,Female,Delhi,5,67.85,339.25,355,Home & Living
+CUST0452,20,Female,Delhi,9,18.7,168.3,76,Books
+CUST0453,26,Male,Kolkata,20,84.71,1694.2,27,Beauty
+CUST0454,32,Female,Ahmedabad,3,33.15,99.45,7,Fashion
+CUST0455,38,Female,Chennai,39,155.54,6066.06,21,Electronics
+CUST0456,29,Female,Delhi,8,52.72,421.76,67,Sports
+CUST0457,33,Male,Ahmedabad,44,329.85,14513.4,8,Electronics
+CUST0458,22,Female,Chennai,5,48.13,240.65,79,Sports
+CUST0459,33,Female,Mumbai,58,476.31,27625.98,13,Fashion
+CUST0460,35,Female,Delhi,47,207.86,9769.42,3,Electronics
+CUST0461,31,Female,Hyderabad,41,361.35,14815.35,6,Home & Living
+CUST0462,23,Female,Chennai,5,57.25,286.25,78,Sports
+CUST0463,48,Male,Delhi,5,37.51,187.55,216,Electronics
+CUST0464,38,Female,Hyderabad,6,26.24,157.44,41,Fashion
+CUST0465,27,Female,Mumbai,1,73.91,73.91,13,Fashion
+CUST0466,25,Male,Pune,22,69.95,1538.9,33,Home & Living
+CUST0467,37,Male,Hyderabad,21,110.99,2330.79,35,Beauty
+CUST0468,56,Male,Bangalore,9,90.25,812.25,91,Fashion
+CUST0469,41,Female,Kolkata,14,143.52,2009.28,59,Home & Living
+CUST0470,30,Male,Chennai,1,83.4,83.4,16,Electronics
+CUST0471,48,Female,Mumbai,34,468.71,15936.14,10,Fashion
+CUST0472,37,Female,Ahmedabad,1,89.71,89.71,9,Beauty
+CUST0473,41,Male,Bangalore,30,307.16,9214.8,9,Electronics
+CUST0474,33,Male,Chennai,9,38.91,350.19,244,Fashion
+CUST0475,28,Female,Delhi,5,48.78,243.9,62,Books
+CUST0476,43,Male,Mumbai,1,69.6,69.6,6,Beauty
+CUST0477,34,Male,Delhi,27,421.34,11376.18,3,Electronics
+CUST0478,38,Male,Chennai,4,45.05,180.2,47,Books
+CUST0479,41,Female,Bangalore,2,73.37,146.74,5,Electronics
+CUST0480,39,Female,Chennai,3,27.67,83.01,77,Sports
+CUST0481,34,Male,Mumbai,6,43.02,258.12,77,Sports
+CUST0482,18,Female,Ahmedabad,4,59.63,238.52,82,Fashion
+CUST0483,35,Female,Chennai,8,17.78,142.24,28,Beauty
+CUST0484,31,Male,Bangalore,11,56.1,617.1,86,Beauty
+CUST0485,27,Male,Delhi,6,48.92,293.52,29,Beauty
+CUST0486,20,Female,Delhi,3,33.89,101.67,15,Electronics
+CUST0487,50,Female,Pune,45,400.99,18044.55,23,Home & Living
+CUST0488,47,Female,Chennai,23,119.11,2739.53,10,Home & Living
+CUST0489,20,Female,Mumbai,1,60.1,60.1,17,Beauty
+CUST0490,52,Female,Hyderabad,6,88.22,529.32,339,Fashion
+CUST0491,31,Male,Mumbai,7,41.26,288.82,24,Sports
+CUST0492,29,Male,Pune,9,44.64,401.76,37,Beauty
+CUST0493,32,Male,Mumbai,10,91.09,910.9,19,Home & Living
+CUST0494,47,Male,Ahmedabad,12,59.87,718.44,46,Fashion
+CUST0495,22,Male,Pune,4,48.25,193.0,79,Books
+CUST0496,36,Female,Ahmedabad,14,67.25,941.5,17,Fashion
+CUST0497,39,Female,Delhi,11,16.43,180.73,77,Sports
+CUST0498,52,Male,Ahmedabad,44,392.2,17256.8,23,Electronics
+CUST0499,18,Male,Chennai,1,70.43,70.43,10,Fashion
+CUST0500,39,Female,Kolkata,3,54.56,163.68,8,Beauty
+CUST0501,34,Female,Delhi,3,52.56,157.68,64,Fashion
+CUST0502,32,Female,Delhi,8,49.28,394.24,32,Sports
+CUST0503,27,Female,Hyderabad,13,117.92,1532.96,58,Home & Living
+CUST0504,24,Female,Hyderabad,4,44.98,179.92,148,Home & Living
+CUST0505,21,Male,Delhi,11,47.16,518.76,32,Beauty
+CUST0506,39,Male,Delhi,18,54.4,979.2,44,Fashion
+CUST0507,21,Male,Bangalore,2,88.36,176.72,8,Fashion
+CUST0508,26,Male,Hyderabad,2,30.59,61.18,253,Electronics
+CUST0509,31,Male,Mumbai,3,57.67,173.01,4,Electronics
+CUST0510,35,Female,Hyderabad,4,61.92,247.68,326,Fashion
+CUST0511,39,Female,Delhi,10,58.59,585.9,50,Fashion
+CUST0512,32,Male,Delhi,19,141.64,2691.16,51,Home & Living
+CUST0513,27,Female,Kolkata,2,33.01,66.02,7,Beauty
+CUST0514,42,Male,Kolkata,6,114.32,685.92,197,Home & Living
+CUST0515,35,Female,Delhi,37,237.33,8781.21,26,Fashion
+CUST0516,49,Female,Ahmedabad,22,439.97,9679.34,11,Home & Living
+CUST0517,28,Male,Kolkata,16,71.09,1137.44,41,Beauty
+CUST0518,41,Male,Bangalore,4,58.23,232.92,336,Books
+CUST0519,27,Male,Bangalore,1,72.25,72.25,14,Fashion
+CUST0520,33,Male,Bangalore,17,112.28,1908.76,56,Home & Living
+CUST0521,19,Male,Chennai,10,33.82,338.2,44,Fashion
+CUST0522,38,Female,Mumbai,16,55.24,883.84,44,Beauty
+CUST0523,20,Male,Mumbai,3,88.11,264.33,13,Electronics
+CUST0524,21,Female,Mumbai,9,61.96,557.64,143,Books
+CUST0525,37,Male,Kolkata,5,93.12,465.6,233,Fashion
+CUST0526,28,Male,Hyderabad,6,58.82,352.92,21,Beauty
+CUST0527,39,Male,Delhi,15,140.42,2106.3,56,Home & Living
+CUST0528,36,Male,Kolkata,18,130.56,2350.08,26,Fashion
+CUST0529,34,Female,Pune,35,217.64,7617.4,22,Electronics
+CUST0530,49,Male,Bangalore,7,25.13,175.91,213,Electronics
+CUST0531,22,Male,Hyderabad,4,89.38,357.52,364,Electronics
+CUST0532,22,Male,Bangalore,3,40.77,122.31,6,Electronics
+CUST0533,39,Female,Bangalore,2,33.97,67.94,4,Beauty
+CUST0534,19,Male,Delhi,8,26.69,213.52,41,Sports
+CUST0535,28,Male,Chennai,3,61.13,183.39,159,Home & Living
+CUST0536,42,Female,Mumbai,1,68.19,68.19,18,Beauty
+CUST0537,42,Female,Bangalore,5,28.2,141.0,166,Fashion
+CUST0538,31,Female,Pune,17,129.38,2199.46,44,Home & Living
+CUST0539,36,Male,Bangalore,7,49.56,346.92,78,Sports
+CUST0540,53,Male,Bangalore,51,447.7,22832.7,14,Electronics
+CUST0541,41,Male,Mumbai,3,68.93,206.79,4,Electronics
+CUST0542,35,Female,Kolkata,3,55.05,165.15,84,Books
+CUST0543,31,Female,Delhi,17,136.56,2321.52,53,Fashion
+CUST0544,35,Male,Hyderabad,5,29.59,147.95,46,Books
+CUST0545,33,Female,Mumbai,8,34.31,274.48,57,Beauty
+CUST0546,34,Female,Chennai,17,73.33,1246.61,22,Beauty
+CUST0547,44,Male,Mumbai,35,224.32,7851.2,25,Home & Living
+CUST0548,26,Female,Mumbai,4,23.26,93.04,85,Sports
+CUST0549,26,Female,Kolkata,11,26.64,293.04,39,Sports
+CUST0550,55,Female,Ahmedabad,6,49.59,297.54,248,Electronics
+CUST0551,32,Female,Hyderabad,7,40.96,286.72,43,Sports
+CUST0552,56,Female,Bangalore,8,54.1,432.8,217,Fashion
+CUST0553,23,Female,Kolkata,6,47.71,286.26,80,Fashion
+CUST0554,18,Male,Mumbai,6,42.65,255.9,57,Sports
+CUST0555,35,Male,Hyderabad,5,86.18,430.9,193,Books
+CUST0556,38,Female,Mumbai,19,82.35,1564.65,54,Sports
+CUST0557,43,Female,Bangalore,34,183.05,6223.7,9,Electronics
+CUST0558,34,Male,Delhi,46,290.71,13372.66,8,Electronics
+CUST0559,52,Male,Mumbai,3,55.66,166.98,172,Fashion
+CUST0560,25,Male,Hyderabad,6,40.46,242.76,48,Beauty
+CUST0561,41,Female,Mumbai,5,58.87,294.35,178,Home & Living
+CUST0562,44,Female,Mumbai,18,132.97,2393.46,33,Home & Living
+CUST0563,45,Male,Bangalore,39,353.95,13804.05,1,Electronics
+CUST0564,30,Male,Chennai,21,385.38,8092.98,6,Fashion
+CUST0565,25,Male,Chennai,10,116.66,1166.6,53,Beauty
+CUST0566,26,Male,Hyderabad,6,34.17,205.02,38,Books
+CUST0567,37,Male,Delhi,22,111.71,2457.62,31,Fashion
+CUST0568,32,Female,Hyderabad,23,78.23,1799.29,32,Home & Living
+CUST0569,37,Female,Hyderabad,3,88.27,264.81,19,Electronics
+CUST0570,38,Male,Delhi,17,132.01,2244.17,47,Home & Living
+CUST0571,23,Female,Ahmedabad,6,28.85,173.1,61,Beauty
+CUST0572,27,Male,Pune,4,93.02,372.08,352,Books
+CUST0573,28,Male,Ahmedabad,19,120.17,2283.23,55,Home & Living
+CUST0574,22,Female,Chennai,7,29.21,204.47,32,Fashion
+CUST0575,23,Male,Bangalore,1,87.61,87.61,211,Books
+CUST0576,26,Male,Delhi,1,38.43,38.43,11,Electronics
+CUST0577,54,Female,Mumbai,48,268.76,12900.48,4,Electronics
+CUST0578,34,Male,Bangalore,2,54.83,109.66,13,Electronics
+CUST0579,36,Female,Bangalore,7,34.89,244.23,57,Sports
+CUST0580,31,Female,Delhi,24,145.46,3491.04,50,Fashion
+CUST0581,33,Male,Mumbai,4,33.07,132.28,71,Sports
+CUST0582,19,Female,Mumbai,1,73.4,73.4,4,Fashion
+CUST0583,35,Male,Hyderabad,5,20.24,101.2,43,Fashion
+CUST0584,35,Male,Mumbai,21,64.84,1361.64,37,Fashion
+CUST0585,32,Male,Kolkata,6,42.65,255.9,58,Fashion
+CUST0586,31,Male,Chennai,11,70.08,770.88,31,Home & Living
+CUST0587,33,Female,Delhi,45,246.97,11113.65,7,Fashion
+CUST0588,52,Female,Bangalore,25,402.72,10068.0,8,Home & Living
+CUST0589,47,Male,Kolkata,56,153.67,8605.52,10,Electronics
+CUST0590,46,Female,Delhi,14,148.25,2075.5,30,Fashion
+CUST0591,40,Female,Mumbai,34,363.63,12363.42,7,Electronics
+CUST0592,20,Male,Kolkata,4,32.24,128.96,56,Fashion
+CUST0593,35,Female,Delhi,11,85.31,938.41,38,Fashion
+CUST0594,30,Female,Delhi,23,136.63,3142.49,48,Beauty
+CUST0595,28,Female,Kolkata,6,25.96,155.76,304,Electronics
+CUST0596,27,Male,Mumbai,9,31.82,286.38,48,Beauty
+CUST0597,27,Female,Bangalore,5,17.3,86.5,57,Books
+CUST0598,32,Female,Hyderabad,22,100.57,2212.54,30,Fashion
+CUST0599,40,Male,Mumbai,10,137.8,1378.0,23,Sports
+CUST0600,44,Male,Chennai,57,437.82,24955.74,22,Fashion
+CUST0601,25,Female,Mumbai,18,108.92,1960.56,17,Fashion
+CUST0602,36,Male,Delhi,24,129.65,3111.6,55,Home & Living
+CUST0603,49,Male,Mumbai,18,119.07,2143.26,14,Sports
+CUST0604,42,Male,Chennai,33,250.07,8252.31,27,Electronics
+CUST0605,48,Female,Mumbai,46,418.09,19232.14,9,Electronics
+CUST0606,18,Female,Hyderabad,11,19.43,213.73,86,Fashion
+CUST0607,48,Female,Mumbai,14,89.31,1250.34,22,Fashion
+CUST0608,42,Male,Pune,9,108.77,978.93,54,Home & Living
+CUST0609,32,Male,Ahmedabad,4,43.25,173.0,74,Fashion
+CUST0610,38,Female,Ahmedabad,8,47.86,382.88,84,Sports
+CUST0611,52,Female,Chennai,38,266.97,10144.86,23,Electronics
+CUST0612,52,Male,Chennai,4,106.64,426.56,266,Electronics
+CUST0613,19,Male,Hyderabad,5,35.68,178.4,57,Sports
+CUST0614,51,Female,Mumbai,35,371.48,13001.8,3,Electronics
+CUST0615,41,Male,Delhi,8,32.76,262.08,154,Fashion
+CUST0616,40,Male,Delhi,3,59.29,177.87,13,Electronics
+CUST0617,44,Male,Delhi,40,315.11,12604.4,23,Electronics
+CUST0618,48,Male,Mumbai,22,52.52,1155.44,51,Home & Living
+CUST0619,46,Female,Hyderabad,9,94.47,850.23,110,Fashion
+CUST0620,32,Male,Mumbai,7,51.73,362.11,335,Electronics
+CUST0621,33,Female,Delhi,16,99.62,1593.92,47,Fashion
+CUST0622,26,Female,Mumbai,10,67.44,674.4,44,Fashion
+CUST0623,41,Female,Mumbai,20,75.36,1507.2,10,Fashion
+CUST0624,28,Female,Hyderabad,11,29.22,321.42,38,Fashion
+CUST0625,39,Male,Delhi,11,40.75,448.25,38,Beauty
+CUST0626,32,Male,Bangalore,9,93.6,842.4,54,Home & Living
+CUST0627,26,Female,Delhi,9,47.54,427.86,29,Books
+CUST0628,43,Female,Pune,9,80.48,724.32,93,Books
+CUST0629,42,Male,Hyderabad,45,476.46,21440.7,16,Electronics
+CUST0630,29,Male,Kolkata,12,106.46,1277.52,27,Sports
+CUST0631,23,Female,Mumbai,9,107.98,971.82,280,Fashion
+CUST0632,49,Male,Bangalore,3,110.32,330.96,253,Home & Living
+CUST0633,22,Female,Ahmedabad,10,16.81,168.1,21,Books
+CUST0634,24,Female,Kolkata,9,18.77,168.93,48,Sports
+CUST0635,52,Male,Mumbai,44,203.16,8939.04,20,Electronics
+CUST0636,26,Male,Bangalore,20,92.82,1856.4,37,Fashion
+CUST0637,20,Female,Bangalore,8,29.1,232.8,88,Beauty
+CUST0638,43,Female,Kolkata,22,142.15,3127.3,33,Sports
+CUST0639,36,Male,Chennai,10,134.61,1346.1,58,Beauty
+CUST0640,43,Male,Mumbai,23,98.62,2268.26,49,Sports
+CUST0641,45,Female,Pune,38,456.42,17343.96,13,Home & Living
+CUST0642,26,Female,Delhi,13,119.03,1547.39,32,Sports
+CUST0643,47,Male,Delhi,21,114.57,2405.97,35,Fashion
+CUST0644,27,Male,Chennai,13,50.51,656.63,35,Fashion
+CUST0645,36,Female,Pune,27,454.94,12283.38,16,Electronics
+CUST0646,28,Male,Chennai,1,79.78,79.78,289,Home & Living
+CUST0647,20,Male,Bangalore,5,22.6,113.0,26,Books
+CUST0648,23,Male,Delhi,9,22.57,203.13,61,Books
+CUST0649,55,Male,Kolkata,9,50.79,457.11,298,Books
+CUST0650,33,Female,Bangalore,5,46.92,234.6,81,Sports
+CUST0651,45,Male,Mumbai,50,199.7,9985.0,28,Fashion
+CUST0652,35,Female,Pune,4,17.12,68.48,89,Sports
+CUST0653,25,Male,Mumbai,5,43.33,216.65,80,Beauty
+CUST0654,32,Male,Delhi,2,56.91,113.82,325,Fashion
+CUST0655,26,Female,Bangalore,14,137.99,1931.86,40,Fashion
+CUST0656,43,Female,Pune,46,237.49,10924.54,17,Electronics
+CUST0657,44,Male,Bangalore,10,139.51,1395.1,59,Beauty
+CUST0658,41,Female,Hyderabad,9,143.08,1287.72,48,Home & Living
+CUST0659,24,Male,Mumbai,7,26.68,186.76,83,Sports
+CUST0660,25,Male,Pune,7,53.79,376.53,85,Beauty
+CUST0661,46,Female,Pune,9,66.78,601.02,47,Beauty
+CUST0662,24,Male,Delhi,3,60.14,180.42,4,Fashion
+CUST0663,28,Male,Ahmedabad,3,47.34,142.02,74,Beauty
+CUST0664,40,Female,Kolkata,17,77.45,1316.65,58,Home & Living
+CUST0665,42,Male,Pune,56,390.28,21855.68,29,Fashion
+CUST0666,47,Female,Delhi,9,96.07,864.63,12,Sports
+CUST0667,31,Female,Bangalore,13,74.86,973.18,10,Sports
+CUST0668,42,Male,Delhi,21,135.88,2853.48,56,Home & Living
+CUST0669,43,Female,Hyderabad,13,149.19,1939.47,58,Fashion
+CUST0670,31,Male,Pune,10,86.33,863.3,38,Sports
+CUST0671,43,Male,Chennai,17,60.68,1031.56,40,Home & Living
+CUST0672,36,Female,Mumbai,7,36.43,255.01,199,Home & Living
+CUST0673,53,Male,Delhi,38,264.2,10039.6,2,Home & Living
+CUST0674,37,Male,Chennai,8,18.5,148.0,70,Sports
+CUST0675,40,Female,Ahmedabad,15,71.23,1068.45,37,Beauty
+CUST0676,28,Male,Delhi,1,86.21,86.21,7,Fashion
+CUST0677,44,Female,Chennai,23,414.09,9524.07,16,Electronics
+CUST0678,34,Female,Bangalore,24,100.33,2407.92,15,Beauty
+CUST0679,18,Female,Bangalore,3,68.29,204.87,6,Electronics
+CUST0680,52,Male,Delhi,7,47.4,331.8,133,Books
+CUST0681,34,Female,Mumbai,7,59.22,414.54,274,Electronics
+CUST0682,47,Female,Kolkata,8,100.81,806.48,47,Home & Living
+CUST0683,27,Male,Hyderabad,10,69.2,692.0,43,Home & Living
+CUST0684,24,Male,Chennai,4,56.58,226.32,20,Books
+CUST0685,23,Male,Kolkata,2,40.4,80.8,2,Beauty
+CUST0686,34,Male,Ahmedabad,5,25.69,128.45,61,Books
+CUST0687,33,Male,Delhi,3,23.69,71.07,78,Fashion
+CUST0688,28,Female,Mumbai,14,91.31,1278.34,34,Beauty
+CUST0689,45,Male,Delhi,9,80.98,728.82,206,Fashion
+CUST0690,48,Female,Kolkata,21,79.8,1675.8,26,Fashion
+CUST0691,49,Female,Ahmedabad,16,84.28,1348.48,26,Fashion
+CUST0692,32,Female,Hyderabad,18,74.02,1332.36,27,Sports
+CUST0693,30,Male,Bangalore,4,47.8,191.2,64,Sports
+CUST0694,41,Male,Hyderabad,11,145.21,1597.31,29,Home & Living
+CUST0695,41,Male,Pune,32,239.97,7679.04,15,Electronics
+CUST0696,37,Female,Bangalore,11,46.11,507.21,65,Fashion
+CUST0697,45,Male,Kolkata,9,141.72,1275.48,28,Home & Living
+CUST0698,34,Female,Ahmedabad,5,34.52,172.6,74,Fashion
+CUST0699,28,Male,Kolkata,14,83.92,1174.88,45,Sports
+CUST0700,18,Male,Chennai,11,33.08,363.88,35,Sports
+CUST0701,23,Female,Hyderabad,6,23.39,140.34,62,Beauty
+CUST0702,30,Female,Bangalore,39,225.61,8798.79,20,Fashion
+CUST0703,26,Female,Hyderabad,19,97.51,1852.69,21,Sports
+CUST0704,43,Female,Mumbai,53,383.36,20318.08,21,Electronics
+CUST0705,31,Female,Kolkata,28,275.29,7708.12,13,Fashion
+CUST0706,19,Female,Pune,3,95.71,287.13,12,Beauty
+CUST0707,38,Female,Pune,9,143.67,1293.03,55,Fashion
+CUST0708,41,Female,Bangalore,4,101.57,406.28,311,Electronics
+CUST0709,31,Female,Mumbai,23,108.39,2492.97,29,Sports
+CUST0710,33,Male,Chennai,7,23.18,162.26,83,Fashion
+CUST0711,56,Male,Mumbai,3,39.65,118.95,106,Fashion
+CUST0712,38,Male,Delhi,8,53.61,428.88,54,Sports
+CUST0713,27,Female,Chennai,8,38.74,309.92,53,Beauty
+CUST0714,41,Male,Chennai,8,106.44,851.52,13,Fashion
+CUST0715,45,Female,Kolkata,11,108.27,1190.97,28,Sports
+CUST0716,19,Female,Bangalore,1,76.67,76.67,12,Fashion
+CUST0717,30,Female,Delhi,5,92.8,464.0,301,Home & Living
+CUST0718,27,Female,Kolkata,1,76.08,76.08,18,Fashion
+CUST0719,41,Female,Delhi,49,476.5,23348.5,24,Electronics
+CUST0720,45,Female,Delhi,6,23.67,142.02,133,Fashion
+CUST0721,40,Female,Mumbai,2,33.48,66.96,19,Beauty
+CUST0722,43,Female,Delhi,15,83.73,1255.95,15,Beauty
+CUST0723,53,Male,Kolkata,37,176.21,6519.77,25,Electronics
+CUST0724,46,Female,Hyderabad,9,96.87,871.83,121,Fashion
+CUST0725,28,Male,Bangalore,4,33.1,132.4,50,Beauty
+CUST0726,40,Female,Hyderabad,2,30.06,60.12,318,Fashion
+CUST0727,48,Female,Pune,37,266.35,9854.95,24,Fashion
+CUST0728,29,Male,Hyderabad,4,119.33,477.32,283,Fashion
+CUST0729,25,Male,Chennai,20,120.09,2401.8,13,Sports
+CUST0730,43,Female,Mumbai,23,81.8,1881.4,33,Home & Living
+CUST0731,42,Male,Delhi,23,111.04,2553.92,39,Fashion
+CUST0732,22,Female,Mumbai,8,75.92,607.36,339,Books
+CUST0733,28,Female,Bangalore,4,31.96,127.84,21,Beauty
+CUST0734,29,Female,Mumbai,9,41.18,370.62,79,Fashion
+CUST0735,37,Male,Delhi,18,139.92,2518.56,22,Fashion
+CUST0736,34,Female,Chennai,8,110.88,887.04,129,Home & Living
+CUST0737,39,Female,Chennai,11,125.65,1382.15,10,Fashion
+CUST0738,56,Male,Ahmedabad,5,66.86,334.3,326,Electronics
+CUST0739,32,Male,Kolkata,23,84.19,1936.37,13,Sports
+CUST0740,34,Male,Mumbai,19,94.58,1797.02,46,Home & Living
+CUST0741,26,Female,Mumbai,7,56.1,392.7,73,Books
+CUST0742,26,Female,Kolkata,9,125.14,1126.26,51,Home & Living
+CUST0743,30,Female,Chennai,6,47.56,285.36,122,Books
+CUST0744,25,Male,Mumbai,5,24.22,121.1,34,Books
+CUST0745,43,Female,Mumbai,17,80.45,1367.65,13,Sports
+CUST0746,55,Male,Chennai,7,57.72,404.04,190,Books
+CUST0747,45,Female,Bangalore,18,144.77,2605.86,43,Beauty
+CUST0748,26,Male,Delhi,4,48.41,193.64,61,Fashion
+CUST0749,19,Female,Mumbai,1,41.76,41.76,17,Electronics
+CUST0750,20,Female,Kolkata,8,21.83,174.64,68,Sports
+CUST0751,33,Male,Chennai,28,354.85,9935.8,23,Electronics
+CUST0752,40,Female,Hyderabad,3,65.56,196.68,15,Electronics
+CUST0753,34,Female,Ahmedabad,11,50.9,559.9,34,Sports
+CUST0754,36,Female,Pune,11,125.69,1382.59,58,Fashion
+CUST0755,52,Female,Pune,31,342.4,10614.4,24,Fashion
+CUST0756,42,Female,Delhi,5,26.22,131.1,240,Home & Living
+CUST0757,38,Male,Delhi,3,36.12,108.36,38,Sports
+CUST0758,21,Female,Mumbai,6,50.1,300.6,63,Beauty
+CUST0759,23,Male,Bangalore,2,102.05,204.1,144,Fashion
+CUST0760,32,Male,Delhi,5,65.02,325.1,99,Fashion
+CUST0761,43,Male,Delhi,15,62.46,936.9,58,Fashion
+CUST0762,45,Male,Ahmedabad,16,54.71,875.36,40,Home & Living
+CUST0763,35,Male,Pune,11,106.19,1168.09,22,Beauty
+CUST0764,48,Male,Bangalore,1,118.67,118.67,197,Fashion
+CUST0765,54,Male,Mumbai,26,267.54,6956.04,21,Home & Living
+CUST0766,31,Male,Delhi,6,35.38,212.28,73,Fashion
+CUST0767,40,Female,Chennai,6,115.21,691.26,108,Home & Living
+CUST0768,22,Female,Chennai,5,59.23,296.15,129,Books
+CUST0769,37,Female,Delhi,20,75.88,1517.6,53,Fashion
+CUST0770,42,Female,Mumbai,3,45.87,137.61,176,Electronics
+CUST0771,31,Male,Ahmedabad,38,387.9,14740.2,22,Electronics
+CUST0772,39,Male,Chennai,1,22.4,22.4,347,Books
+CUST0773,48,Male,Delhi,24,498.4,11961.6,21,Home & Living
+CUST0774,31,Female,Mumbai,15,66.92,1003.8,47,Fashion
+CUST0775,23,Female,Delhi,9,47.17,424.53,241,Fashion
+CUST0776,39,Male,Kolkata,38,363.97,13830.86,17,Home & Living
+CUST0777,47,Male,Bangalore,8,84.7,677.6,18,Beauty
+CUST0778,54,Female,Delhi,3,53.8,161.4,237,Electronics
+CUST0779,20,Female,Ahmedabad,7,71.11,497.77,235,Home & Living
+CUST0780,35,Male,Pune,9,54.26,488.34,63,Sports
+CUST0781,19,Male,Hyderabad,6,19.16,114.96,57,Sports
+CUST0782,26,Female,Hyderabad,10,58.5,585.0,54,Books
+CUST0783,28,Male,Delhi,19,66.06,1255.14,23,Beauty
+CUST0784,44,Male,Delhi,13,60.64,788.32,24,Home & Living
+CUST0785,49,Male,Delhi,19,144.85,2752.15,53,Fashion
+CUST0786,29,Male,Chennai,2,84.56,169.12,15,Beauty
+CUST0787,34,Female,Hyderabad,9,45.66,410.94,53,Beauty
+CUST0788,43,Female,Bangalore,9,134.16,1207.44,23,Sports
+CUST0789,20,Male,Delhi,8,45.47,363.76,70,Beauty
+CUST0790,33,Male,Delhi,3,47.78,143.34,2,Beauty
+CUST0791,41,Female,Delhi,13,126.03,1638.39,41,Beauty
+CUST0792,36,Male,Kolkata,10,53.98,539.8,43,Fashion
+CUST0793,22,Female,Kolkata,8,31.14,249.12,75,Books
+CUST0794,21,Female,Bangalore,8,45.93,367.44,21,Beauty
+CUST0795,49,Female,Delhi,45,305.46,13745.7,11,Home & Living
+CUST0796,31,Female,Delhi,5,89.29,446.45,128,Electronics
+CUST0797,38,Male,Kolkata,1,94.06,94.06,1,Fashion
+CUST0798,33,Female,Chennai,5,36.35,181.75,24,Books
+CUST0799,38,Female,Bangalore,6,38.34,230.04,50,Beauty
+CUST0800,19,Female,Bangalore,1,38.72,38.72,2,Beauty
+CUST0801,31,Male,Kolkata,7,112.77,789.39,180,Fashion
+CUST0802,26,Female,Kolkata,22,114.39,2516.58,38,Home & Living
+CUST0803,18,Female,Mumbai,4,38.79,155.16,37,Books
+CUST0804,36,Male,Mumbai,4,24.91,99.64,35,Beauty
+CUST0805,26,Female,Pune,20,96.73,1934.6,14,Beauty
+CUST0806,39,Female,Bangalore,7,33.57,234.99,142,Books
+CUST0807,40,Female,Hyderabad,2,97.86,195.72,16,Electronics
+CUST0808,39,Male,Delhi,2,53.87,107.74,4,Beauty
+CUST0809,37,Male,Bangalore,3,59.92,179.76,46,Beauty
+CUST0810,35,Female,Pune,21,172.85,3629.85,11,Fashion
+CUST0811,20,Male,Kolkata,3,47.86,143.58,1,Fashion
+CUST0812,39,Male,Hyderabad,3,29.7,89.1,215,Home & Living
+CUST0813,39,Male,Ahmedabad,28,299.41,8383.48,28,Fashion
+CUST0814,35,Female,Pune,2,95.2,190.4,15,Beauty
+CUST0815,22,Female,Chennai,5,55.53,277.65,278,Electronics
+CUST0816,23,Male,Mumbai,10,30.44,304.4,34,Books
+CUST0817,22,Male,Bangalore,6,47.21,283.26,32,Sports
+CUST0818,45,Female,Pune,13,100.1,1301.3,47,Sports
+CUST0819,37,Male,Chennai,26,217.37,5651.62,21,Electronics
+CUST0820,45,Female,Hyderabad,15,134.37,2015.55,40,Beauty
+CUST0821,28,Male,Delhi,6,38.66,231.96,173,Electronics
+CUST0822,51,Male,Mumbai,42,288.81,12130.02,29,Electronics
+CUST0823,30,Male,Ahmedabad,21,149.83,3146.43,18,Fashion
+CUST0824,37,Female,Chennai,24,112.56,2701.44,37,Beauty
+CUST0825,27,Male,Chennai,6,27.77,166.62,77,Beauty
+CUST0826,38,Male,Mumbai,1,35.42,35.42,10,Fashion
+CUST0827,27,Female,Mumbai,13,127.69,1659.97,27,Sports
+CUST0828,29,Female,Delhi,14,145.03,2030.42,29,Beauty
+CUST0829,20,Male,Kolkata,4,115.39,461.56,194,Books
+CUST0830,28,Female,Delhi,8,42.96,343.68,64,Fashion
+CUST0831,34,Male,Delhi,11,141.18,1552.98,25,Beauty
+CUST0832,32,Female,Delhi,11,30.78,338.58,84,Fashion
+CUST0833,40,Male,Delhi,54,207.9,11226.6,11,Electronics
+CUST0834,34,Female,Pune,14,75.23,1053.22,12,Fashion
+CUST0835,18,Male,Bangalore,4,55.81,223.24,51,Fashion
+CUST0836,28,Female,Mumbai,20,80.16,1603.2,44,Home & Living
+CUST0837,42,Male,Mumbai,1,66.03,66.03,19,Fashion
+CUST0838,43,Female,Mumbai,18,123.36,2220.48,46,Fashion
+CUST0839,21,Female,Delhi,7,22.42,156.94,60,Sports
+CUST0840,21,Female,Bangalore,9,15.8,142.2,48,Beauty
+CUST0841,45,Female,Delhi,50,199.21,9960.5,14,Electronics
+CUST0842,33,Female,Kolkata,3,59.35,178.05,77,Beauty
+CUST0843,43,Male,Bangalore,12,131.71,1580.52,13,Beauty
+CUST0844,40,Female,Ahmedabad,3,70.14,210.42,10,Beauty
+CUST0845,34,Male,Delhi,28,368.44,10316.32,4,Electronics
+CUST0846,49,Male,Mumbai,21,84.95,1783.95,15,Beauty
+CUST0847,33,Female,Pune,58,232.26,13471.08,14,Home & Living
+CUST0848,27,Female,Delhi,2,31.18,62.36,18,Beauty
+CUST0849,33,Male,Chennai,11,24.51,269.61,87,Sports
+CUST0850,37,Male,Ahmedabad,10,37.63,376.3,24,Beauty
+CUST0851,38,Female,Delhi,51,407.02,20758.02,3,Electronics
+CUST0852,22,Female,Hyderabad,9,46.07,414.63,151,Books
+CUST0853,49,Male,Delhi,20,140.61,2812.2,44,Sports
+CUST0854,50,Female,Bangalore,2,44.37,88.74,199,Electronics
+CUST0855,36,Female,Mumbai,18,86.08,1549.44,43,Beauty
+CUST0856,30,Female,Pune,10,149.62,1496.2,35,Beauty
+CUST0857,35,Male,Pune,31,293.83,9108.73,2,Electronics
+CUST0858,35,Male,Delhi,6,19.21,115.26,65,Books
+CUST0859,35,Male,Chennai,10,54.69,546.9,39,Books
+CUST0860,40,Male,Hyderabad,27,391.43,10568.61,27,Electronics
+CUST0861,38,Female,Chennai,2,20.75,41.5,256,Home & Living
+CUST0862,36,Male,Hyderabad,5,27.11,135.55,35,Fashion
+CUST0863,29,Female,Hyderabad,7,34.81,243.67,88,Books
+CUST0864,39,Male,Delhi,8,104.12,832.96,42,Home & Living
+CUST0865,40,Male,Hyderabad,14,100.74,1410.36,57,Home & Living
+CUST0866,34,Female,Bangalore,4,35.3,141.2,37,Books
+CUST0867,34,Male,Ahmedabad,13,133.17,1731.21,15,Home & Living
+CUST0868,38,Female,Bangalore,23,87.58,2014.34,59,Sports
+CUST0869,29,Male,Bangalore,7,42.05,294.35,168,Home & Living
+CUST0870,30,Female,Bangalore,3,95.28,285.84,3,Beauty
+CUST0871,34,Female,Bangalore,13,85.88,1116.44,58,Beauty
+CUST0872,33,Female,Bangalore,19,114.8,2181.2,20,Fashion
+CUST0873,18,Male,Delhi,4,19.52,78.08,60,Sports
+CUST0874,40,Female,Delhi,10,103.33,1033.3,20,Beauty
+CUST0875,32,Female,Bangalore,34,293.89,9992.26,10,Home & Living
+CUST0876,41,Female,Kolkata,9,76.89,692.01,11,Beauty
+CUST0877,45,Male,Mumbai,3,85.01,255.03,345,Electronics
+CUST0878,38,Male,Mumbai,8,28.9,231.2,28,Books
+CUST0879,30,Male,Mumbai,46,481.5,22149.0,6,Fashion
+CUST0880,37,Male,Kolkata,15,84.15,1262.25,12,Sports
+CUST0881,48,Female,Hyderabad,12,78.92,947.04,20,Fashion
+CUST0882,19,Female,Ahmedabad,3,27.31,81.93,65,Beauty
+CUST0883,40,Male,Chennai,21,395.48,8305.08,27,Home & Living
+CUST0884,50,Female,Bangalore,24,483.66,11607.84,21,Electronics
+CUST0885,57,Female,Delhi,2,32.56,65.12,210,Home & Living
+CUST0886,33,Male,Hyderabad,10,114.83,1148.3,14,Sports
+CUST0887,36,Male,Kolkata,7,41.32,289.24,76,Fashion
+CUST0888,45,Female,Hyderabad,12,95.5,1146.0,42,Fashion
+CUST0889,45,Female,Mumbai,31,253.91,7871.21,10,Home & Living
+CUST0890,48,Female,Mumbai,22,94.75,2084.5,49,Beauty
+CUST0891,32,Female,Chennai,2,89.68,179.36,303,Home & Living
+CUST0892,43,Female,Mumbai,1,58.51,58.51,93,Fashion
+CUST0893,35,Male,Hyderabad,2,65.33,130.66,334,Fashion
+CUST0894,25,Male,Hyderabad,24,97.45,2338.8,52,Sports
+CUST0895,37,Female,Bangalore,5,50.86,254.3,75,Sports
+CUST0896,38,Male,Bangalore,14,105.42,1475.88,18,Home & Living
+CUST0897,41,Male,Hyderabad,13,129.4,1682.2,46,Home & Living
+CUST0898,29,Female,Bangalore,8,114.93,919.44,307,Electronics
+CUST0899,46,Female,Mumbai,26,263.1,6840.6,26,Electronics
+CUST0900,32,Male,Delhi,40,487.93,19517.2,4,Electronics
+CUST0901,30,Female,Kolkata,9,57.66,518.94,47,Home & Living
+CUST0902,30,Male,Mumbai,20,480.86,9617.2,13,Fashion
+CUST0903,49,Female,Pune,14,85.25,1193.5,40,Home & Living
+CUST0904,27,Female,Delhi,3,38.36,115.08,55,Beauty
+CUST0905,37,Male,Bangalore,21,76.97,1616.37,35,Home & Living
+CUST0906,27,Female,Mumbai,6,87.21,523.26,142,Home & Living
+CUST0907,30,Male,Delhi,1,98.67,98.67,189,Fashion
+CUST0908,36,Male,Delhi,18,87.6,1576.8,24,Sports
+CUST0909,36,Female,Chennai,22,113.84,2504.48,31,Sports
+CUST0910,43,Male,Kolkata,9,60.84,547.56,38,Fashion
+CUST0911,35,Female,Hyderabad,8,33.16,265.28,28,Fashion
+CUST0912,36,Male,Delhi,14,56.29,788.06,37,Beauty
+CUST0913,27,Male,Delhi,5,44.95,224.75,40,Beauty
+CUST0914,42,Male,Bangalore,20,138.87,2777.4,37,Home & Living
+CUST0915,36,Male,Hyderabad,7,44.23,309.61,37,Beauty
+CUST0916,41,Male,Mumbai,9,138.56,1247.04,23,Home & Living
+CUST0917,37,Female,Mumbai,9,122.31,1100.79,38,Fashion
+CUST0918,31,Female,Delhi,2,86.19,172.38,14,Beauty
+CUST0919,25,Male,Mumbai,2,29.25,58.5,257,Books
+CUST0920,51,Female,Ahmedabad,43,235.2,10113.6,12,Electronics
+CUST0921,59,Female,Chennai,7,60.25,421.75,251,Books
+CUST0922,20,Female,Pune,4,29.2,116.8,43,Books
+CUST0923,27,Female,Bangalore,4,97.28,389.12,192,Books
+CUST0924,56,Female,Bangalore,7,90.72,635.04,181,Books
+CUST0925,38,Male,Bangalore,13,148.59,1931.67,27,Home & Living
+CUST0926,35,Female,Kolkata,24,343.93,8254.32,15,Electronics
+CUST0927,40,Female,Pune,18,91.95,1655.1,32,Sports
+CUST0928,31,Female,Mumbai,5,48.32,241.6,67,Sports
+CUST0929,30,Female,Mumbai,11,47.41,521.51,44,Sports
+CUST0930,40,Male,Hyderabad,15,61.56,923.4,13,Home & Living
+CUST0931,50,Male,Hyderabad,33,225.41,7438.53,10,Electronics
+CUST0932,56,Male,Ahmedabad,2,104.25,208.5,347,Home & Living
+CUST0933,28,Male,Chennai,1,95.86,95.86,2,Fashion
+CUST0934,18,Female,Kolkata,4,58.27,233.08,79,Books
+CUST0935,32,Male,Mumbai,8,121.36,970.88,42,Home & Living
+CUST0936,41,Female,Chennai,15,146.66,2199.9,43,Home & Living
+CUST0937,47,Male,Delhi,34,261.9,8904.6,20,Fashion
+CUST0938,40,Female,Bangalore,2,51.81,103.62,11,Electronics
+CUST0939,46,Female,Bangalore,57,347.96,19833.72,5,Electronics
+CUST0940,32,Female,Delhi,3,54.99,164.97,71,Books
+CUST0941,25,Female,Mumbai,24,122.35,2936.4,30,Home & Living
+CUST0942,23,Female,Bangalore,5,37.93,189.65,84,Beauty
+CUST0943,25,Female,Pune,11,57.78,635.58,86,Books
+CUST0944,44,Male,Mumbai,6,46.73,280.38,142,Fashion
+CUST0945,48,Female,Chennai,8,68.99,551.92,13,Sports
+CUST0946,32,Male,Mumbai,50,372.4,18620.0,23,Electronics
+CUST0947,51,Male,Mumbai,30,394.25,11827.5,26,Fashion
+CUST0948,29,Male,Ahmedabad,3,69.85,209.55,10,Beauty
+CUST0949,59,Male,Delhi,9,111.96,1007.64,241,Home & Living
+CUST0950,30,Male,Bangalore,4,41.2,164.8,46,Books
+CUST0951,18,Female,Mumbai,7,30.23,211.61,33,Beauty
+CUST0952,38,Male,Hyderabad,7,58.55,409.85,73,Books
+CUST0953,49,Male,Hyderabad,10,139.21,1392.1,16,Beauty
+CUST0954,30,Male,Chennai,1,88.32,88.32,8,Fashion
+CUST0955,25,Female,Kolkata,24,149.06,3577.44,57,Home & Living
+CUST0956,32,Male,Ahmedabad,17,94.04,1598.68,38,Home & Living
+CUST0957,33,Male,Delhi,10,29.81,298.1,57,Sports
+CUST0958,33,Female,Mumbai,50,273.28,13664.0,12,Electronics
+CUST0959,31,Female,Kolkata,23,88.56,2036.88,34,Beauty
+CUST0960,25,Female,Bangalore,4,25.82,103.28,319,Home & Living
+CUST0961,34,Female,Chennai,35,418.4,14644.0,26,Electronics
+CUST0962,27,Female,Hyderabad,11,38.18,419.98,89,Books
+CUST0963,33,Female,Chennai,23,120.79,2778.17,31,Fashion
+CUST0964,43,Female,Bangalore,14,64.4,901.6,43,Sports
+CUST0965,46,Female,Bangalore,9,54.96,494.64,58,Fashion
+CUST0966,48,Male,Delhi,10,73.04,730.4,29,Home & Living
+CUST0967,49,Male,Delhi,3,101.15,303.45,134,Home & Living
+CUST0968,41,Female,Chennai,17,94.91,1613.47,15,Sports
+CUST0969,19,Female,Chennai,7,42.99,300.93,73,Books
+CUST0970,20,Female,Bangalore,7,43.02,301.14,66,Beauty
+CUST0971,35,Female,Chennai,9,22.37,201.33,31,Beauty
+CUST0972,40,Male,Mumbai,1,97.62,97.62,5,Electronics
+CUST0973,36,Male,Mumbai,7,28.01,196.07,100,Electronics
+CUST0974,28,Female,Delhi,20,135.45,2709.0,51,Sports
+CUST0975,30,Female,Kolkata,53,429.68,22773.04,29,Electronics
+CUST0976,26,Male,Delhi,22,103.71,2281.62,43,Fashion
+CUST0977,19,Male,Kolkata,9,18.0,162.0,40,Beauty
+CUST0978,35,Female,Pune,32,450.43,14413.76,9,Home & Living
+CUST0979,24,Male,Chennai,9,54.06,486.54,48,Beauty
+CUST0980,21,Female,Hyderabad,8,51.22,409.76,56,Sports
+CUST0981,33,Male,Bangalore,8,105.91,847.28,15,Fashion
+CUST0982,52,Male,Kolkata,5,78.57,392.85,141,Books
+CUST0983,43,Male,Ahmedabad,46,343.89,15818.94,14,Fashion
+CUST0984,50,Male,Mumbai,41,362.75,14872.75,2,Fashion
+CUST0985,55,Female,Delhi,4,31.67,126.68,207,Electronics
+CUST0986,24,Female,Kolkata,3,18.53,55.59,40,Fashion
+CUST0987,37,Male,Chennai,10,40.6,406.0,38,Fashion
+CUST0988,34,Female,Delhi,21,83.97,1763.37,22,Fashion
+CUST0989,49,Female,Bangalore,21,80.17,1683.57,56,Beauty
+CUST0990,54,Female,Bangalore,1,64.64,64.64,146,Books
+CUST0991,30,Male,Delhi,9,67.47,607.23,305,Home & Living
+CUST0992,30,Male,Delhi,8,45.28,362.24,69,Books
+CUST0993,39,Female,Chennai,15,122.55,1838.25,57,Home & Living
+CUST0994,20,Female,Mumbai,3,51.83,155.49,55,Sports
+CUST0995,36,Female,Chennai,14,93.81,1313.34,45,Fashion
+CUST0996,47,Male,Bangalore,43,309.74,13318.82,23,Electronics
+CUST0997,19,Female,Mumbai,3,85.59,256.77,6,Electronics
+CUST0998,40,Male,Bangalore,47,463.69,21793.43,15,Home & Living
+CUST0999,32,Female,Hyderabad,2,52.44,104.88,2,Beauty
+CUST1000,31,Female,Bangalore,17,122.94,2089.98,10,Home & Living
