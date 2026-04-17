@@ -1,3 +1,5 @@
+# NOTE: Please re-arrange all the files according to the given file structure or you may face errors.
+
 # 🎯 Customer Segmentation Dashboard
 
 An interactive web application that uses **K-Means clustering** to segment customers into meaningful groups based on behavioral, demographic, and RFM (Recency, Frequency, Monetary) features — with rich visualizations and actionable business insights.
